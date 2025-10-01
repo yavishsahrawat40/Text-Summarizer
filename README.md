@@ -46,15 +46,15 @@ My plan was to first build a robust command-line tool to perfect the backend log
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - A Hugging Face Account & API Key
 
 ### Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/yavishsahrawat40/Text-Summarizer
+   cd Text-Summarizer
    ```
 
 2. **Install dependencies:**
