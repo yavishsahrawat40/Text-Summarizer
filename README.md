@@ -2,7 +2,7 @@
 
 A simple and effective web application that transforms lengthy articles into concise summaries using the Hugging Face API. This project was built to demonstrate rapid prototyping, problem-solving, and professional development practices for an internship assignment.
 
-➡️ **View the Live Demo Here**
+**[➡️ View the Live Demo Here](https://huggingface.co/spaces/yavishsahrawat/Text_Summarizer)**
 
 ![App Screenshot](assests/Screenshot%202025-10-02%20011542.png)
 
